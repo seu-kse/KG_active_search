@@ -2,21 +2,21 @@
 
 - Introduction
 
-    - The code is a try on searching actively on knowledge graphs based on my own understanding on active search, using open KG data including FreeBase. 
+    - The code is a active search model on Knowledge Graph, using open KG data including FreeBase. 
 
-    - 这份代码是基于我对主动搜索的理解，对知识图谱上的主动搜索的一次简单尝试，使用了包括FreeBase数据在内的公开知识图谱数据。
+    - 这是一个在知识图谱上进行主动搜索的模型源码，使用了包括FreeBase数据在内的公开知识图谱数据。
 
         
-- Running the code
+- Running the code： (测试运行：)
 
     - `python run_train.py`
 
 - Other information
 
-    - This code is a part of our full experiment, we are working on to release a more complete version.  
+    - We are still working on to release a more complete version.  
 
-    - 这份代码是实验的一部分，我们正在努力整理数据以完成完整版本。
+    - 我们会继续不断完善代码，提供更方便的训练和支持更多数据集。
 
-    - The code is currently maintained by Yinlin Jiang. You can contact me at [yljiang@seu.edu.cn](mailto:yljiang@seu.edu.cn);
+    - The code is currently maintained by Jingting Wang. You can contact me at [213182570@seu.edu.cn](mailto:213182570@seu.edu.cn);
 
-    - 有任何问题请随时联系我的邮箱[yljiang@seu.edu.cn](mailto:yljiang@seu.edu.cn);
+    - 有任何问题请随时联系我的邮箱[213182570@seu.edu.cn](mailto:213182570@seu.edu.cn);
